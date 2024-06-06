@@ -362,5 +362,17 @@
 
   .img-9 {
     margin-top: -13%; } }
+@media (min-width: 577px) {
+  .mobile {
+    display: none !important; } }
+@media (max-width: 576px) {
+  .pc {
+    display: none !important; }
+
+  .section-1 .group_img_1 {
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 100%; } }
 
 /*# sourceMappingURL=main.css.map */
